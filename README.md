@@ -27,10 +27,10 @@ const CONFIG = {
     learnMore: "#why-balance",       // "Learn More" hero button
     takeTest: "#why-test",            // "Take the Test" hero button + nav CTA
     ctaContact: "mailto:you@x.com",   // "Contact Me" button in the CTA section
-    testStep1: "#",                   // <-- put your affiliate/test-kit link here
-    instagram: "https://instagram.com/yourhandle",
-    facebook: "https://facebook.com/yourpage",
-    email: "mailto:you@x.com",
+    testStep1: "https://www.zinzino.com/shop/2020996571/US/en-us/ShareCart/OpenCart/5ea2688c-3404-4796-b751-e3864ae73cf3",                   // <-- put your affiliate/test-kit link here
+    instagram: "https://instagram.com/jessica.renee.1",
+    facebook: "https://facebook.com/jessica.wireman.351",
+    email: "mailto:thebalanceadvantage@gmail.com",
   },
 };
 ```
